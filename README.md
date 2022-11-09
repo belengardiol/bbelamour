@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML CSS JS TS JAVA & REACT
 - 💞️ I’m looking to collaborate on group projects 
-- 📫 How to reach me @bbelamour
+- 📫 How to reach me @belamour.___
 
 <!---
 bbelamour/bbelamour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
